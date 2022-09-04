@@ -32,7 +32,14 @@
                 }
             ]
         },
-        "rules": [],
+        "rules": [
+            {
+                "domain": "skill-check",
+                "key": "RollOption",
+                "option": "crowbar-in-possession",
+                "requiresEquipped": false
+            }
+        ],
         "source": {
             "value": "Pathfinder Lost Omens: Character Guide"
         },

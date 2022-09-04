@@ -47,6 +47,12 @@
                 "selector": "athletics",
                 "type": "item",
                 "value": 1
+            },
+            {
+                "domain": "skill-check",
+                "key": "RollOption",
+                "option": "crowbar-in-possession",
+                "requiresEquipped": true
             }
         ],
         "size": "med",

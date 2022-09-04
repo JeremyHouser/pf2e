@@ -35,7 +35,14 @@
             }
         },
         "quantity": 1,
-        "rules": [],
+        "rules": [
+            {
+                "domain": "skill-check",
+                "key": "RollOption",
+                "option": "crowbar-in-possession",
+                "requiresEquipped": true
+            }
+        ],
         "size": "med",
         "source": {
             "value": "Pathfinder Core Rulebook"
